@@ -38,3 +38,4 @@ Participante: André A. Aguiar Gomes, e-mail: andreaguiar.g@gmail.com  /  GIT: h
 ## <a name="especial">1 - Necessidades Especiais</a>
 
 #### <a name="item_1-1"></a>1.1 - Os particpantes que solicitaram atendimento especial são de quais classes das rendas familiares especificadas no formulário socioeconômico?
+["Gráfico de Distribuição - Necessidades Especiais"](<img src="images/img_1-1.png")/>)
